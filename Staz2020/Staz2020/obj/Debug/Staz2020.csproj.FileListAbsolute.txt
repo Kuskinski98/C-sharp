@@ -1,0 +1,15 @@
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\bin\Debug\Staz2020.exe.config
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\bin\Debug\Staz2020.exe
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\bin\Debug\Staz2020.pdb
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\obj\Debug\Staz2020.csprojAssemblyReference.cache
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\obj\Debug\MainWindow.g.cs
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\obj\Debug\App.g.cs
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\obj\Debug\Staz2020_MarkupCompile.cache
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\obj\Debug\Staz2020_MarkupCompile.lref
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\obj\Debug\MainWindow.baml
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\obj\Debug\Staz2020.g.resources
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\obj\Debug\Staz2020.Properties.Resources.resources
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\obj\Debug\Staz2020.csproj.GenerateResource.cache
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\obj\Debug\Staz2020.csproj.CoreCompileInputs.cache
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\obj\Debug\Staz2020.exe
+D:\FAKULTET\Staz2020\Staz2020\Staz2020\obj\Debug\Staz2020.pdb
