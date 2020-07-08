@@ -1,0 +1,27 @@
+﻿<Window x:Class="University.PersonInfoInput"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:University"
+        mc:Ignorable="d"
+        Title="PersonInfoInput" Height="600" Width="500">
+    <StackPanel>
+        <Label Content="Name:" FontSize="20"/>
+        <TextBox x:Name="txtName" Height="30" />
+        <Label Content="Surname:" FontSize="20"/>
+        <TextBox x:Name="txtSurname" Height="30"/>
+        <Label Content="Birthdata:" FontSize="20"/>
+        <TextBox x:Name="txtBirthdata" Height="30"/>
+        <Label Content="Years:" FontSize="20"/>
+        <TextBox x:Name="txtYears" Height="30"/>
+        <Label Content="EGN:" FontSize="20"/>
+        <TextBox x:Name="txtEGN" Height="30"/>
+        <Label Content="Gender:" FontSize="20"/>
+        <TextBox x:Name="txtGender" Height="30"/>
+        <Label Content="Fac. num.:" FontSize="20"/>
+        <TextBox x:Name="txtFNum" Height="30"/>
+        <Label Content="Subject:" FontSize="20"/>
+        <TextBox x:Name="txtSubject" Height="30"/>
+    </StackPanel>
+</Window>

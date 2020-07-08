@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\University\University\bin\Debug\University.exe.config
+C:\Users\pc\source\repos\University\University\bin\Debug\University.exe
+C:\Users\pc\source\repos\University\University\bin\Debug\University.pdb
+C:\Users\pc\source\repos\University\University\obj\Debug\University.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\University\University\obj\Debug\MainWindow.g.cs
+C:\Users\pc\source\repos\University\University\obj\Debug\PersonInfoInput.g.cs
+C:\Users\pc\source\repos\University\University\obj\Debug\App.g.cs
+C:\Users\pc\source\repos\University\University\obj\Debug\University_MarkupCompile.cache
+C:\Users\pc\source\repos\University\University\obj\Debug\University_MarkupCompile.lref
+C:\Users\pc\source\repos\University\University\obj\Debug\MainWindow.baml
+C:\Users\pc\source\repos\University\University\obj\Debug\PersonInfoInput.baml
+C:\Users\pc\source\repos\University\University\obj\Debug\University.g.resources
+C:\Users\pc\source\repos\University\University\obj\Debug\University.Properties.Resources.resources
+C:\Users\pc\source\repos\University\University\obj\Debug\University.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\University\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\University\University\obj\Debug\University.exe
+C:\Users\pc\source\repos\University\University\obj\Debug\University.pdb
